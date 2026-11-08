@@ -1,0 +1,15 @@
+# Arduino build output
+build/
+*.bin
+*.uf2
+*.hex
+*.elf
+
+# Python
+__pycache__/
+*.pyc
+
+# OS clutter
+Thumbs.db
+desktop.ini
+.DS_Store
